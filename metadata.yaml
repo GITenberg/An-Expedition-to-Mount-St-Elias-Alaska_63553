@@ -1,0 +1,30 @@
+_repo: An-Expedition-to-Mount-St-Elias-Alaska_63553
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Russell, Israel C. (Cook)
+    aliases:
+    - Russell, I. C. (Israel Cook)
+    - Russell, Israel Cook
+    birthdate: 1852
+    deathdate: 1906
+    gutenberg_agent_id: '38034'
+    url: http://www.gutenberg.org/2009/agents/38034
+    wikipedia: http://en.wikipedia.org/wiki/Israel_Russell
+description: ''
+gutenberg_issued: '2020-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63553'
+  lccn: '01015701'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alaska -- Description and travel'
+- !lcsh 'Saint Elias, Mount (Alaska and Yukon)'
+- !lcc 'F850.5'
+- GITenberg
+title: An Expedition to Mount St. Elias, Alaska
+url: http://www.gutenberg.org/ebooks/63553
